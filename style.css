@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.season1 {
+  height: 200px;
+  background-image: url(./img/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.season2 {
+  height: 200px;
+  background-image: url(./img/box2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.season3 {
+  height: 200px;
+  background-image: url(./img/box3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.season4 {
+  height: 200px;
+  background-image: url(./img/box4.jpg);
+  background-position: center;
+  background-size: cover;
+}
